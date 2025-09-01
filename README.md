@@ -43,8 +43,9 @@ Con el tiempo he aprendido varias tecnologías. Algunas las domino más, otras a
 
 Algunos proyectos que me han gustado 👇
 
-- 🤖 [Bot de Discord](https://github.com/RevayDev/Discord.js) → Un bot con comandos básicos, tickets y moderación.  
-- 🌐 [Hoja de vida online](https://github.com/RevayDev/hoja-de-vida) → Proyecto de desarrollo web (HTML, CSS, JS).  
+- 🗃️ [SafeBox-V1](https://github.com/RevayDev/SafeBox) → Un programa para convertir cualquier USB en una caja fuerte.
+- 🐍 [Bot de Discord PY](https://github.com/RevayDev/Discord.py) → Un bot con comandos básicos, bienvenidas, moderacion, y entretenimientos.  
+- 🟡 [Bot de Discord JS](https://github.com/RevayDev/Discord.js) → Un bot con comandos básicos.
 
 ---
 
